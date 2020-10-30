@@ -14,4 +14,4 @@ I have the bot running on an ubuntu VM set with the following crontab file:
 
 The first cronjob is to post a tweet every 3 hours, the second is to gather @h3h3productions tweets once per week.
 
-Made this repo public in case you have interest in making a similar bot 😊
+I made this repo public in case you have interest in making a similar bot 😊
