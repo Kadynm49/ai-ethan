@@ -1,0 +1,4 @@
+name: ai_ethan
+dependencies:
+  markov: ^2.0.1+2
+  twitter_api: ^0.1.2
