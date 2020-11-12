@@ -1,5 +1,6 @@
 # ai-ethan
 Twitter bot that posts tweets similar to those of @h3h3productions.
+You can find the bot's twitter page here: https://twitter.com/aiethanklein
 
 Inspired by https://filiph.github.io/markov/.
 
